@@ -1,4 +1,3 @@
-pip install streamlit pandas prophet plotly matplotlib
 import streamlit as st
 import pandas as pd
 from prophet import Prophet
